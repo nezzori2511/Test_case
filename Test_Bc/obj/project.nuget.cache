@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv/MArfbmoQ1hT8GpUJ7sh+3wq1WBGXpPFXvoUFCLlnRs7AmzNTC6tNBkKMsvbSNHtNjh2lQ6TrUh+vQEaB12g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Test_Bc\\Test_Bc\\Test_Bc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver\\3.14.0\\selenium.webdriver.3.14.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\selenium.webdriver.chromedriver\\100.0.4896.6000\\selenium.webdriver.chromedriver.100.0.4896.6000.nupkg.sha512"
+  ],
+  "logs": []
+}
